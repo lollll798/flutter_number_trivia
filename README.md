@@ -1,4 +1,6 @@
-# clean_arch_tdd
+# Flutter Clean Architecture & Test-Driven-Development
+
+Refer to: https://resocoder.com/flutter-clean-architecture-tdd/
 
 A new Flutter project.
 
